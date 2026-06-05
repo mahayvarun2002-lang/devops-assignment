@@ -1,0 +1,4 @@
+node_modules/
+REPORT_TEMPLATE.md
+DEMO_SCRIPT.md
+*.log
